@@ -1,0 +1,26 @@
+{
+  "boissons": [
+    { "id": 1, "nom": "Café", "prix": 2.50, "stock": 20 },
+    { "id": 2, "nom": "Thé", "prix": 2.00, "stock": 15 },
+    { "id": 3, "nom": "Matcha", "prix": 3.00, "stock": 10 },
+    { "id": 4, "nom": "Jus d'orange", "prix": 2.50, "stock": 25 },
+    { "id": 5, "nom": "Limonade", "prix": 2.50, "stock": 30 },
+    { "id": 6, "nom": "Chocolat chaud", "prix": 3.50, "stock": 15 },
+    { "id": 7, "nom": "Smoothie", "prix": 4.00, "stock": 12 },
+    { "id": 8, "nom": "Eau minérale", "prix": 1.50, "stock": 50 },
+    { "id": 9, "nom": "Cappuccino", "prix": 3.00, "stock": 18 },
+    { "id": 10, "nom": "Chai latte", "prix": 3.50, "stock": 10 }
+  ],
+  "en-cas": [
+    { "id": 11, "nom": "Croissant", "prix": 2.00, "stock": 30 },
+    { "id": 12, "nom": "Pain au chocolat", "prix": 2.50, "stock": 25 },
+    { "id": 13, "nom": "Cookie", "prix": 1.50, "stock": 40 },
+    { "id": 14, "nom": "Sandwich", "prix": 4.00, "stock": 20 },
+    { "id": 15, "nom": "Salade", "prix": 5.00, "stock": 15 },
+    { "id": 16, "nom": "Granola bar", "prix": 2.50, "stock": 35 },
+    { "id": 17, "nom": "Fruits frais", "prix": 3.50, "stock": 18 },
+    { "id": 18, "nom": "Yaourt", "prix": 2.00, "stock": 40 },
+    { "id": 19, "nom": "Barre de céréales", "prix": 1.50, "stock": 45 },
+    { "id": 20, "nom": "Popcorn", "prix": 2.00, "stock": 30 }
+  ]
+}
